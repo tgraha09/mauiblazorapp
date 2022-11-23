@@ -1,0 +1,311 @@
+/* /Pages/Index.razor.rz.scp.css */
+
+
+.glass[b-43vjxrn6j7] {
+    background: salmon;
+    position: relative;
+    display: flex;
+    
+    margin: 2rem;
+    justify-content: center;
+}
+
+
+.main[b-43vjxrn6j7] {
+    position: relative;
+    font-weight: bold;
+    /*height: 100vh;*/
+    
+    /*width: 40rem;
+    height: 40rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex: 0;
+    margin: 0 auto;
+    min-width: 100vw;
+    min-height: 100vh;
+    background: linear-gradient(to right top,#5FB49C,#414288);*/
+}
+
+@media only screen and (max-width: 640px) {
+    .main[b-43vjxrn6j7] {
+        font-weight: bold;
+        display: flex;
+        
+        flex-direction: column;
+        /*width: 40rem;
+        min-width: 100vw;
+        min-height: 100vh;
+        background: linear-gradient(to right top,#5FB49C,#414288);*/
+    }
+
+    .glass[b-43vjxrn6j7] {
+        background: salmon;
+        position: relative;
+        display: flex;
+    }
+
+}
+
+
+/*.main {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(to right top,#5FB49C,#414288);
+}
+
+#text{
+   color: red;
+}*/
+        /*
+
+.glass {
+    
+    min-height: 20vh;
+    min-width: 20vw;
+}*/
+/* /Shared/HorizontalNavMenu.razor.rz.scp.css */
+.navbar-toggler[b-c5zn5x7ete] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-c5zn5x7ete] {
+    min-height: 7.5vh; /*3.5rem;*/
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-c5zn5x7ete] {
+    font-size: 1.1rem;
+}
+
+.oi[b-c5zn5x7ete] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-c5zn5x7ete] {
+    font-size: 0.9rem;
+    padding: 1rem;
+    min-width: 180px;
+}
+
+/*.nav-item:first-of-type {
+    padding-top: 1rem;
+}
+
+.nav-item:last-of-type {
+    padding-bottom: 1rem;
+}*/
+
+.nav-item[b-c5zn5x7ete]  a {
+    color: #d7d7d7;
+    border-radius: 4px;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    line-height: 3rem;
+}
+
+.nav-item[b-c5zn5x7ete]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-c5zn5x7ete]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+.flex-row[b-c5zn5x7ete] {
+    grid-area: a;
+    display: flex;
+    flex-direction: row;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-c5zn5x7ete] {
+        display: none;
+    }
+
+    .collapse[b-c5zn5x7ete] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-vpt3hdzxob] {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    grid-template-rows: 1fr min-content;
+    grid-template-areas:
+        "a a"
+        "b c";
+}
+
+main[b-vpt3hdzxob] {
+    /*flex: 1;*/
+
+}
+
+.sidebar-vert[b-vpt3hdzxob], .sidebar-horz[b-vpt3hdzxob] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-vpt3hdzxob] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.top-row[b-vpt3hdzxob]  a, .top-row[b-vpt3hdzxob]  .btn-link {
+    white-space: nowrap;
+    margin-left: 1.5rem;
+    text-decoration: none;
+}
+
+.top-row[b-vpt3hdzxob]  a:hover, .top-row[b-vpt3hdzxob]  .btn-link:hover {
+    text-decoration: underline;
+}
+
+.top-row[b-vpt3hdzxob]  a:first-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-vpt3hdzxob] {
+        display: none;
+    }
+
+    .top-row.auth[b-vpt3hdzxob] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-vpt3hdzxob]  a, .top-row[b-vpt3hdzxob]  .btn-link {
+        margin-left: 0;
+    }
+
+    .sidebar-horz[b-vpt3hdzxob], .sidebar-vert[b-vpt3hdzxob] {
+        grid-area: a;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-vpt3hdzxob] {
+        
+        
+        min-width: 100vw;
+        
+    }
+
+    .sidebar-vert[b-vpt3hdzxob] {
+        flex-grow: 1;
+        height: 100vh;
+        min-width: 250px;
+        max-width: 250px;
+        position: sticky;
+        top: 0;
+        grid-area: b;
+    }
+
+    .sidebar-horz[b-vpt3hdzxob] {
+        max-height: 125px;
+        grid-area: a;
+    }
+
+    .top-row[b-vpt3hdzxob] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row[b-vpt3hdzxob], article[b-vpt3hdzxob] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Shared/VerticalNavMenu.razor.rz.scp.css */
+.navbar-toggler[b-aw657zkavv] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-aw657zkavv] {
+    min-height: 7.5vh;/*3.5rem;*/
+    background-color: rgba(0,0,0,0.4);
+    
+}
+
+.navbar-brand[b-aw657zkavv] {
+    font-size: 1.1rem;
+}
+
+.oi[b-aw657zkavv] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-aw657zkavv] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+    min-width: 180px;
+}
+
+.nav-item:first-of-type[b-aw657zkavv] {
+    padding-top: 1rem;
+}
+
+.nav-item:last-of-type[b-aw657zkavv] {
+    padding-bottom: 1rem;
+}
+
+.nav-item[b-aw657zkavv]  a {
+    color: #d7d7d7;
+    border-radius: 4px;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    line-height: 3rem;
+}
+
+.nav-item[b-aw657zkavv]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+   
+}
+
+.nav-item[b-aw657zkavv]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+.flex-column[b-aw657zkavv] {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-aw657zkavv] {
+        display: none;
+    }
+
+    .collapse[b-aw657zkavv] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

@@ -1,0 +1,69 @@
+.navbar-toggler[b-c5zn5x7ete] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-c5zn5x7ete] {
+    min-height: 7.5vh; /*3.5rem;*/
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-c5zn5x7ete] {
+    font-size: 1.1rem;
+}
+
+.oi[b-c5zn5x7ete] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-c5zn5x7ete] {
+    font-size: 0.9rem;
+    padding: 1rem;
+    min-width: 180px;
+}
+
+/*.nav-item:first-of-type {
+    padding-top: 1rem;
+}
+
+.nav-item:last-of-type {
+    padding-bottom: 1rem;
+}*/
+
+.nav-item[b-c5zn5x7ete]  a {
+    color: #d7d7d7;
+    border-radius: 4px;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    line-height: 3rem;
+}
+
+.nav-item[b-c5zn5x7ete]  a.active {
+    background-color: rgba(255,255,255,0.25);
+    color: white;
+}
+
+.nav-item[b-c5zn5x7ete]  a:hover {
+    background-color: rgba(255,255,255,0.1);
+    color: white;
+}
+
+.flex-row[b-c5zn5x7ete] {
+    grid-area: a;
+    display: flex;
+    flex-direction: row;
+}
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-c5zn5x7ete] {
+        display: none;
+    }
+
+    .collapse[b-c5zn5x7ete] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+}

@@ -1,0 +1,72 @@
+
+
+.glass[b-43vjxrn6j7] {
+    background: salmon;
+    position: relative;
+    display: flex;
+    
+    margin: 2rem;
+    justify-content: center;
+}
+
+
+.main[b-43vjxrn6j7] {
+    position: relative;
+    font-weight: bold;
+    /*height: 100vh;*/
+    
+    /*width: 40rem;
+    height: 40rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex: 0;
+    margin: 0 auto;
+    min-width: 100vw;
+    min-height: 100vh;
+    background: linear-gradient(to right top,#5FB49C,#414288);*/
+}
+
+@media only screen and (max-width: 640px) {
+    .main[b-43vjxrn6j7] {
+        font-weight: bold;
+        display: flex;
+        
+        flex-direction: column;
+        /*width: 40rem;
+        min-width: 100vw;
+        min-height: 100vh;
+        background: linear-gradient(to right top,#5FB49C,#414288);*/
+    }
+
+    .glass[b-43vjxrn6j7] {
+        background: salmon;
+        position: relative;
+        display: flex;
+    }
+
+}
+
+
+/*.main {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(to right top,#5FB49C,#414288);
+}
+
+#text{
+   color: red;
+}*/
+        /*
+
+.glass {
+    
+    min-height: 20vh;
+    min-width: 20vw;
+}*/
