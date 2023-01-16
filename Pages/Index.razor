@@ -1,10 +1,47 @@
 ﻿@page "/"
+@inject IJSRuntime JS
 
-<div class="main">
-    <section class="glass">
-        <h1>Text</h1>
-    </section>
-</div>
+
+<!--<button @onclick="ChangeText">CLICK ME</button>-->
+
+
+<h1>HOME</h1>
+
+@code {
+    private string Text = "";
+    private bool isRendered = false;
+    /*protected override async Task OnInitializedAsync()
+        {
+        Text = await JS.InvokeAsync<string>("MyLib.runApp");
+        StateHasChanged();
+    }*/
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        //Console.WriteLine(firstRender);
+        
+        if (firstRender && isRendered == false){
+            isRendered = true;
+            //await this.JS.InvokeVoidAsync("console.log", firstRender);
+            //await this.JS.InvokeVoidAsync("console.log", isRendered);
+            await JS.InvokeVoidAsync("MyLib.runApp");
+            StateHasChanged();
+        }
+        
+    }
+
+    async private void ChangeText()
+    {
+        
+        //Text = await JS.InvokeAsync<string>("MyLib.runApp");
+        //await JS.InvokeAsync<string>("MyLib.GetCurrentTime");
+        //await JS.InvokeVoidAsync("MyLib.runApp");
+        StateHasChanged();
+    }
+}
+<!--<section class="glass">
+    <h1>Text</h1>
+</section>-->
 
 <!--<div class="circle1"></div>
 

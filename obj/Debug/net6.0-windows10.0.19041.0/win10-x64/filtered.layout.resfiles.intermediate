@@ -1,3 +1,4 @@
+Assets\hamburger_icon.afdesign
 OpenSans-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
@@ -35,6 +36,7 @@ dotnet_bot.scale-125.png
 dotnet_bot.scale-150.png
 dotnet_bot.scale-200.png
 dotnet_bot.scale-400.png
+hamburger_icon.scale-100.png
 splashSplashScreen.scale-100.png
 splashSplashScreen.scale-125.png
 splashSplashScreen.scale-150.png
@@ -46,6 +48,7 @@ Pages\Index.razor.css
 AboutAssets.txt
 Shared\HorizontalNavMenu.razor.css
 Shared\MainLayout.razor.css
+Shared\NavMenu.razor.css
 Shared\VerticalNavMenu.razor.css
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
@@ -60,6 +63,7 @@ wwwroot\css\open-iconic\FONT-LICENSE
 wwwroot\css\open-iconic\ICON-LICENSE
 wwwroot\css\open-iconic\README.md
 wwwroot\favicon.ico
+wwwroot\images\hamburger_icon.png
 wwwroot\index.html
 wwwroot\js\my_lib.js
 wwwroot\js\my_lib.js.LICENSE.txt

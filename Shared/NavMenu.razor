@@ -1,0 +1,40 @@
+﻿@inject IJSRuntime JS
+
+<ul class="container-menu">
+    <li><a href="#home">About</a></li>
+    <li><a href="#news">Services</a></li>
+    <li><a href="#contact">Clients</a></li>
+    <li><a class="active" href="#contact">Contact</a></li>
+</ul>
+
+<div class="mobile-container">
+    <div id="myNav" class="overlay">
+        <a href="javascript:void(0)" class="closebtn" @onclick="CloseNav">&times;</a>
+      <div class="overlay-content">
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Clients</a>
+        <a href="#">Contact</a>
+      </div>
+    </div>
+
+    <span style="font-size:30px;cursor:pointer" class="openbtn" @onclick="OpenNav">&#9776;</span>
+</div>
+
+
+
+
+@code {
+    private bool isOpen = false;
+    async private void OpenNav()
+    {
+        
+        await JS.InvokeVoidAsync("MyLib.openNav");
+    }
+
+    async private void CloseNav()
+    {
+       
+        await JS.InvokeVoidAsync("MyLib.closeNav");
+    }
+}

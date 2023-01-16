@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OobPTKc3FIH3TeXlO++q1hpp10E53fjzN/HaH6S9nCE=",
+  "Hash": "39YO0llYgBGY0tqgX7CnDfXazj/HZHupnzEwevYW8Jw=",
   "Source": "MauiBlazorApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\tfire\\OneDrive\\Documents\\Projects\\Test Apps\\MauiBlazorApp\\wwwroot\\images\\hamburger_icon.png",
+      "SourceId": "MauiBlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tfire\\OneDrive\\Documents\\Projects\\Test Apps\\MauiBlazorApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "images/hamburger_icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hamburger_icon.png"
     },
     {
       "Identity": "C:\\Users\\tfire\\OneDrive\\Documents\\Projects\\Test Apps\\MauiBlazorApp\\wwwroot\\index.html",

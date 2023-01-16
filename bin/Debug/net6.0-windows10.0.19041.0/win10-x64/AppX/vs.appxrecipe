@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-22T20:11:18.702</Modified>
+      <Modified>2023-01-16T16:21:26.828</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-20T19:48:05.185</Modified>
+      <Modified>2023-01-16T01:41:38.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorApp.runtimeconfig.json">
       <PackagePath>MauiBlazorApp.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorApp.dll">
       <PackagePath>MauiBlazorApp.dll</PackagePath>
-      <Modified>2022-11-21T20:00:22.690</Modified>
+      <Modified>2023-01-16T16:21:18.817</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiBlazorApp.exe</PackagePath>
-      <Modified>2022-11-21T20:00:22.704</Modified>
+      <Modified>2023-01-16T16:21:18.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.10\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1131,7 +1131,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorApp.deps.json">
       <PackagePath>MauiBlazorApp.deps.json</PackagePath>
-      <Modified>2022-11-22T20:11:13.394</Modified>
+      <Modified>2023-01-16T16:21:19.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.541\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1151,15 +1151,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiBlazorApp.styles.css">
       <PackagePath>wwwroot\MauiBlazorApp.styles.css</PackagePath>
-      <Modified>2022-11-21T19:54:17.474</Modified>
+      <Modified>2023-01-16T01:48:01.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiBlazorApp.bundle.scp.css">
       <PackagePath>wwwroot\MauiBlazorApp.bundle.scp.css</PackagePath>
-      <Modified>2022-11-21T19:54:17.474</Modified>
+      <Modified>2023-01-16T01:48:01.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
-      <Modified>2022-11-21T19:36:46.947</Modified>
+      <Modified>2023-01-07T06:14:03.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\css\bootstrap\bootstrap.min.css">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css</PackagePath>
@@ -1209,17 +1209,21 @@
       <PackagePath>wwwroot\favicon.ico</PackagePath>
       <Modified>2022-11-05T23:08:31.520</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\images\hamburger_icon.png">
+      <PackagePath>wwwroot\images\hamburger_icon.png</PackagePath>
+      <Modified>2022-11-28T20:07:51.320</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
-      <Modified>2022-11-06T06:46:56.724</Modified>
+      <Modified>2022-11-26T16:04:23.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\js\my_lib.js">
       <PackagePath>wwwroot\js\my_lib.js</PackagePath>
-      <Modified>2022-11-05T23:22:17.356</Modified>
+      <Modified>2023-01-16T01:40:51.923</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\js\my_lib.js.LICENSE.txt">
       <PackagePath>wwwroot\js\my_lib.js.LICENSE.txt</PackagePath>
-      <Modified>2022-11-05T23:12:26.203</Modified>
+      <Modified>2023-01-16T01:06:38.219</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -1247,163 +1251,175 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-11-05T23:13:37.780</Modified>
+      <Modified>2022-11-28T20:07:53.646</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.893</Modified>
+      <Modified>2022-11-28T20:07:53.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.900</Modified>
+      <Modified>2022-11-28T20:07:53.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.906</Modified>
+      <Modified>2022-11-28T20:07:53.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.916</Modified>
+      <Modified>2022-11-28T20:07:53.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.951</Modified>
+      <Modified>2022-11-28T20:07:53.820</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.785</Modified>
+      <Modified>2022-11-28T20:07:53.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.788</Modified>
+      <Modified>2022-11-28T20:07:53.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.789</Modified>
+      <Modified>2022-11-28T20:07:53.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.792</Modified>
+      <Modified>2022-11-28T20:07:53.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.795</Modified>
+      <Modified>2022-11-28T20:07:53.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.827</Modified>
+      <Modified>2022-11-28T20:07:53.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.830</Modified>
+      <Modified>2022-11-28T20:07:53.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.834</Modified>
+      <Modified>2022-11-28T20:07:53.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.840</Modified>
+      <Modified>2022-11-28T20:07:53.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.849</Modified>
+      <Modified>2022-11-28T20:07:53.717</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.811</Modified>
+      <Modified>2022-11-28T20:07:53.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.813</Modified>
+      <Modified>2022-11-28T20:07:53.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.816</Modified>
+      <Modified>2022-11-28T20:07:53.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.819</Modified>
+      <Modified>2022-11-28T20:07:53.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.824</Modified>
+      <Modified>2022-11-28T20:07:53.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.798</Modified>
+      <Modified>2022-11-28T20:07:53.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.800</Modified>
+      <Modified>2022-11-28T20:07:53.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.802</Modified>
+      <Modified>2022-11-28T20:07:53.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.805</Modified>
+      <Modified>2022-11-28T20:07:53.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.808</Modified>
+      <Modified>2022-11-28T20:07:53.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.852</Modified>
+      <Modified>2022-11-28T20:07:53.720</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.856</Modified>
+      <Modified>2022-11-28T20:07:53.724</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.862</Modified>
+      <Modified>2022-11-28T20:07:53.729</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.869</Modified>
+      <Modified>2022-11-28T20:07:53.737</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.888</Modified>
+      <Modified>2022-11-28T20:07:53.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.806</Modified>
+      <Modified>2022-11-28T20:06:35.716</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.814</Modified>
+      <Modified>2022-11-28T20:06:35.722</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.822</Modified>
+      <Modified>2022-11-28T20:06:35.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.835</Modified>
+      <Modified>2022-11-28T20:06:35.746</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-11-05T23:13:37.863</Modified>
+      <Modified>2022-11-28T20:06:35.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\hamburger_icon.scale-100.png">
+      <PackagePath>hamburger_icon.scale-100.png</PackagePath>
+      <Modified>2022-11-28T20:07:51.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Assets\hamburger_icon.afdesign">
+      <PackagePath>Assets\hamburger_icon.afdesign</PackagePath>
+      <Modified>2022-11-28T19:59:39.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Pages\Index.razor.css">
       <PackagePath>Pages\Index.razor.css</PackagePath>
-      <Modified>2022-11-21T19:20:31.782</Modified>
+      <Modified>2023-01-14T22:16:22.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Shared\HorizontalNavMenu.razor.css">
       <PackagePath>Shared\HorizontalNavMenu.razor.css</PackagePath>
-      <Modified>2022-11-21T19:32:36.474</Modified>
+      <Modified>2022-11-28T16:02:24.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>
-      <Modified>2022-11-22T16:50:55.051</Modified>
+      <Modified>2023-01-16T02:18:30.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Shared\NavMenu.razor.css">
+      <PackagePath>Shared\NavMenu.razor.css</PackagePath>
+      <Modified>2023-01-16T01:51:40.203</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Shared\VerticalNavMenu.razor.css">
       <PackagePath>Shared\VerticalNavMenu.razor.css</PackagePath>
-      <Modified>2022-11-21T19:40:02.611</Modified>
+      <Modified>2022-11-28T15:34:09.330</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -907,6 +907,9 @@
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\images\hamburger_icon.png">
+      <PackagePath>wwwroot\images\hamburger_icon.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
     </AppxPackagedFile>
@@ -1042,6 +1045,12 @@
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\hamburger_icon.scale-100.png">
+      <PackagePath>hamburger_icon.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Assets\hamburger_icon.afdesign">
+      <PackagePath>Assets\hamburger_icon.afdesign</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Pages\Index.razor.css">
       <PackagePath>Pages\Index.razor.css</PackagePath>
     </AppxPackagedFile>
@@ -1050,6 +1059,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Shared\NavMenu.razor.css">
+      <PackagePath>Shared\NavMenu.razor.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\Shared\VerticalNavMenu.razor.css">
       <PackagePath>Shared\VerticalNavMenu.razor.css</PackagePath>

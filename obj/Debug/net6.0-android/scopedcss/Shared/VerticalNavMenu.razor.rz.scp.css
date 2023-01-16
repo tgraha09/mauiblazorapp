@@ -59,6 +59,7 @@
     flex-direction: column;
 }
 
+
 @media (min-width: 641px) {
     .navbar-toggler[b-aw657zkavv] {
         display: none;

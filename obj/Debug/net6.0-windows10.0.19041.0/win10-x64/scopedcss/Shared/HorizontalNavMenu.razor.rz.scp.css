@@ -3,7 +3,7 @@
 }
 
 .top-row[b-c5zn5x7ete] {
-    min-height: 7.5vh; /*3.5rem;*/
+    height: 7vh; /*3.5rem;*/
     background-color: rgba(0,0,0,0.4);
 }
 
@@ -52,12 +52,36 @@
 }
 
 .flex-row[b-c5zn5x7ete] {
-    grid-area: a;
+   
     display: flex;
     flex-direction: row;
 }
 
+
+
+@media (max-width: 640.98px) {
+
+    .top-row[b-c5zn5x7ete]{}
+
+    .sidebar-vert[b-c5zn5x7ete]{
+        display: none;
+    }
+    .sidebar-horz[b-c5zn5x7ete] {
+        
+    }
+    .flex-row[b-c5zn5x7ete]{
+        flex-direction: column !important;
+    }
+    
+}
+
 @media (min-width: 641px) {
+    .nav-item[b-c5zn5x7ete] {
+        font-size: 0.9rem;
+        padding: 1rem;
+        max-width: 180px;
+    }
+
     .navbar-toggler[b-c5zn5x7ete] {
         display: none;
     }

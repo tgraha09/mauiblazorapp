@@ -3,7 +3,7 @@
 }
 
 .top-row {
-    min-height: 7.5vh; /*3.5rem;*/
+    height: 7vh; /*3.5rem;*/
     background-color: rgba(0,0,0,0.4);
 }
 
@@ -52,12 +52,36 @@
 }
 
 .flex-row {
-    grid-area: a;
+   
     display: flex;
     flex-direction: row;
 }
 
+
+
+@media (max-width: 640.98px) {
+
+    .top-row{}
+
+    .sidebar-vert{
+        display: none;
+    }
+    .sidebar-horz {
+        
+    }
+    .flex-row{
+        flex-direction: column !important;
+    }
+    
+}
+
 @media (min-width: 641px) {
+    .nav-item {
+        font-size: 0.9rem;
+        padding: 1rem;
+        max-width: 180px;
+    }
+
     .navbar-toggler {
         display: none;
     }

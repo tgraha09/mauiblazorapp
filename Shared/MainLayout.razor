@@ -1,22 +1,38 @@
 ﻿@inherits LayoutComponentBase
 
-<div class="page">
-    <div class="sidebar-horz">
+<div class="main-app">
+    <NavMenu></NavMenu>
+    <div>
+        @Body
+        <div id="target">
+            
+        </div>
+    </div>
+</div>
+
+<!--<div class="page">
+   <!--<MobileNavbar>
+
+   </MobileNavbar>-->
+   <!--<div class="sidebar-horz">
         <HorizontalNavMenu />
     </div>
     <div class="sidebar-vert">
         <VerticalNavMenu />
     </div>
-
+     <div class="main-app">
+    @Body
+     </div>
     
+   
     <div class="main-app">
-        <!--<div class="top-row px-4">
-            <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
-        </div>-->
         @Body
     </div>
-</div>
+</div>-->
 
 <!--<div class="sidebar">
         <NavMenu />
+    </div>-->
+<!--<div class="top-row px-4">
+        <a href="http://blazor.net" target="_blank" class="ml-md-auto">About</a>
     </div>-->

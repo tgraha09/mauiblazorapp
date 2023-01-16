@@ -368,3 +368,5 @@ C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net
 C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Pages\Index.razor.rz.scp.css
 C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\VerticalNavMenu.razor.rz.scp.css
 C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\HorizontalNavMenu.razor.rz.scp.css
+C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\hamburger_icon.scale-100.png
+C:\Users\tfire\OneDrive\Documents\Projects\Test Apps\MauiBlazorApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
